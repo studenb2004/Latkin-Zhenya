@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="1.9.css" />
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>This is the title</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <table border="1" width="500" height="300">
+      <tr>
+        <th>Name</th>
+        <th>Surname</th>
+        <th>Salary</th>
+      </tr>
+      <tr>
+        <td>John</td>
+        <td>Smith</td>
+        <td>200$</td>
+      </tr>
+      <tr>
+        <td>Nick</td>
+        <td>Mayers</td>
+        <td>300$</td>
+      </tr>
+      <tr>
+        <td>Alex</td>
+        <td>Jonson</td>
+        <td>400$</td>
+      </tr>
+    </table>
+  </body>
+</html>
