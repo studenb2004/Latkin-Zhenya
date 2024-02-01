@@ -1,0 +1,6 @@
+td {
+	font-weight: normal;
+}
+p {
+	font-weight: bold;
+}
