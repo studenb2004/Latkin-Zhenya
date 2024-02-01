@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>This is the title</title>
+  </head>
+  <body>
+    <img src="smile.png" height="50" width="500" />
+    <img src="smile.png" />
+  </body>
+</html>
