@@ -1,0 +1,8 @@
+th {
+	text-align: left;
+}
+
+table {
+	width: 400px;
+}
+
