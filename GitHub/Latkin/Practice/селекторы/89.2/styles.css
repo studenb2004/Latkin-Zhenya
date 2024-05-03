@@ -1,0 +1,6 @@
+.elem{
+    color: blue;
+}
+:not(.elem){
+    color: red;
+}

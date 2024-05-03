@@ -1,0 +1,35 @@
+<!--Первое задание-->
+h1, h2, h3 {
+	text-align: center;
+}
+
+<!--Второе задание-->
+h1, h2, h3 {
+	text-align: center;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	font-size: 16px;
+	color: red;
+}
+
+<!--Третье задание-->
+
+h1, h2, h3 {
+	text-align: center;
+	color: red;
+}
+h3 {
+	font-size: 16px;
+}
+
+ul li i{
+    color: red;
+}
+
+li i {
+    color: green;
+}
+
