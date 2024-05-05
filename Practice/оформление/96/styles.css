@@ -1,0 +1,12 @@
+#elem {
+    border-width: 5px;
+    border-style: double;
+    border-color: black;
+    width: 300px;
+    height: 100px;
+}
+#elem2{
+    border:10px double blue;
+    width: 300px;
+    height: 150px;
+}

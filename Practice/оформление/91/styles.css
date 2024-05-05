@@ -1,0 +1,19 @@
+div {
+    display: block;
+}
+
+#parent {
+    width: 400px;
+    border: 1px dashed blue;
+}
+
+
+#child {
+    width: 200px;
+	border: 1px solid green;
+}
+
+#child2 {
+    width: 100px;
+	border: 1px solid red;
+}

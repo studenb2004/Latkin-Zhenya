@@ -1,0 +1,12 @@
+#elem {
+    border-radius: 20px;
+    width: 300px;
+    height: 100px;
+    background-color: #e4f1ed;
+}
+#elem2{
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+    background-color: #00f7ad;
+}

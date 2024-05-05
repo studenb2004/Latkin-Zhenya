@@ -1,0 +1,26 @@
+#elem {
+    border: 1px solid red;
+    width: 300px;
+    height: 100px;
+}
+#elem2{
+    border:1px solid red;
+    width: 300px;
+    height: 150px;
+}
+#elem3{
+    border:2px dotted blue;
+    width: 300px;
+    height: 150px;
+}
+#elem4{
+    border:3px dashed green;
+    
+    width: 300px;
+    height: 150px;
+}
+#elem5{
+    border:6px double rgb(229, 181, 23);
+    width: 300px;
+    height: 150px;
+}

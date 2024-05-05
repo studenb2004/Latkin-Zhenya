@@ -1,0 +1,12 @@
+#elem {
+    border-width: 1px;
+    border-style: dashed;
+    border-color: black;
+    width: 300px;
+    height: 100px;
+}
+#elem2{
+    border:3px dashed rgb(209, 209, 40);
+    width: 300px;
+    height: 200px;
+}
