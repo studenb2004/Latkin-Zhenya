@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>#{title}</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>#{title} в Pug</h1>
+
+    if emailsVisible
+        <h3>Электронные адреса</h3>
+        <ul>
+            each email in emails
+                <li>#{email}</li>
+        </ul>
+    else
+        <h3>Электроннный адрес отсутствует</h3>
+    <p>Телефон: #{phone}</p>
+</body>
+<html>
